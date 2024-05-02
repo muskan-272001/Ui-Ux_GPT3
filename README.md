@@ -1,3 +1,4 @@
+![image](https://github.com/muskan-272001/Ui-Ux_GPT3/assets/82769613/ddb1fdfe-3996-4e54-bb9c-bd6f750ca44f)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
