@@ -1,3 +1,5 @@
+![Screenshot (160)](https://github.com/muskan-272001/Ui-Ux_GPT3/assets/82769613/d05eba6c-b23c-4610-982f-5b43843e6552)
+
 ![image](https://github.com/muskan-272001/Ui-Ux_GPT3/assets/82769613/ddb1fdfe-3996-4e54-bb9c-bd6f750ca44f)
 # Getting Started with Create React App
 
